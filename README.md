@@ -2,6 +2,8 @@
 
 # 📝✨ To-Do List App
 
+check ti out on : https://projects-by-subh.netlify.app/
+
 ![Preview](paragraphtext.png)
 
 Welcome to my sleek and intuitive to-do list app! 🚀
